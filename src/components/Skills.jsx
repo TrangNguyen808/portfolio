@@ -17,7 +17,8 @@ function Skills() {
         <h2 className="text-4xl font-bold text-center mb-12 text-gray-800">
           My <span className="text-[#FFD1DC]">Skills</span>
         </h2>
-        <div className="max-w-3xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
+        Updating...
+        {/* <div className="max-w-3xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
           {skills.map((skill, index) => (
             <div key={index} className="bg-white p-6 rounded-lg shadow-lg">
               <div className="flex justify-between mb-2">
@@ -32,7 +33,7 @@ function Skills() {
               </div>
             </div>
           ))}
-        </div>
+        </div> */}
       </div>
     </section>
   );
